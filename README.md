@@ -1,23 +1,25 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/p4udQv-V)
-# [Enter Your Project Name] - Build with AI Hackathon 2026
-**Team Name:** [Insert from Registration]
+# Founder's Cognitive Twin - Build with AI Hackathon 2026
+
+**Team Name:** [Insert Your Team Name Here]  
 **Team Members:** [Member 1, Member 2, Member 3]
 
+## 🔗 Live Demo Link
+**[🚀 VIEW LIVE APPLICATION HERE](https://your-vercel-link-here.vercel.app)**  
+*(Please ensure the Gemini API Key is configured in environment variables)*
+
 ## 1. Project Overview
-Provide a 2-3 sentence summary of the problem you are solving and your AI-powered solution.
+Founder's Cognitive Twin is an AI-powered strategic analyzer designed to reduce the cognitive load of startup founders. By processing raw signals from Slack, transcripts, and founder notes, it detects hidden structural risks, misalignment between investor promises and engineering reality, and identifies context gaps before they become bottlenecks.
 
 ## 2. Google AI Tech Stack Implementation
-Explain how your team utilized the following mandatory technologies:
-* **Google AI Studio / Vertex AI:** Which models (like Gemini) did you use, and what was the specific implementation?
-* **Hosting & Backend:** Did you use Google Cloud Run or Firebase Studio for deployment?
-* **Integration:** How does your solution connect these Google tools to solve the problem?
+*   **Google AI Studio / Gemini:** We utilized the `gemini-3-flash-preview` model for its high-speed, sharp analytical reasoning. The implementation uses specific system instructions to act as a "Strategic Co-founder" and enforces structured JSON output for data integrity.
+*   **Hosting & Backend:** Built as a modern React application utilizing Vite, optimized for high-performance frontend analysis. 
+*   **Integration:** Our solution leverages the `@google/genai` TypeScript SDK to bridge raw founder inputs with complex cognitive analysis.
 
 ## 3. Innovation & Impact
-Why is your project unique compared to existing AI solutions? What is its real-world potential? [3]
+The project moves beyond simple organization into "Narrative Verification." While most tools manage tasks, the Cognitive Twin identifies the *drift* between a founder's external statements and internal execution. By automating the detection of these "Coordination Gaps," we aim to solve the 2.1 hours lost daily to context-switching, directly impacting a startup's survival rate.
 
 ## 4. Setup & Installation
-Provide the steps for the judge to run your project locally or view the live demo:
-1. Clone this repository.
-2. Install dependencies: `pip install -r requirements.txt`.
-3. Set up your API keys in a `.env` file.
-4. Run: `python main.py`.
+1.  **Clone this repository:** `git clone <your-repo-link>`
+2.  **Install dependencies:** `npm install`
+3.  **Set up API keys:** Create a `.env` file and add `GEMINI_API_KEY=your_key`
+4.  **Run locally:** `npm run dev`
