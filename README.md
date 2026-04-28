@@ -4,7 +4,7 @@
 **Team Members:** Mahida Nayyar, Tayyba Fatima, Khadija Ashfaq
 
 ## 🔗 Live Demo Link
-**[🚀 VIEW LIVE APPLICATION HERE](https://your-vercel-link-here.vercel.app)**  
+https://ais-pre-6fqcpuuaa24fhhxctyp4os-347620881932.asia-east1.run.app 
 
 ## 1. Project Overview
 Founder's Cognitive Twin is an AI-powered strategic analyzer designed to reduce the cognitive load of startup founders. By processing raw signals from Slack, transcripts, and founder notes, it detects hidden structural risks, misalignment between investor promises and engineering reality, and identifies context gaps before they become bottlenecks.
