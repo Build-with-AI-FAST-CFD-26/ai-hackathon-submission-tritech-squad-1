@@ -1,11 +1,10 @@
 # Founder's Cognitive Twin - Build with AI Hackathon 2026
 
-**Team Name:** [Insert Your Team Name Here]  
-**Team Members:** [Member 1, Member 2, Member 3]
+**Team Name:** TriTech Squad  
+**Team Members:** Mahida Nayyar, Tayyba Fatima, Khadija Ashfaq
 
 ## 🔗 Live Demo Link
 **[🚀 VIEW LIVE APPLICATION HERE](https://your-vercel-link-here.vercel.app)**  
-*(Please ensure the Gemini API Key is configured in environment variables)*
 
 ## 1. Project Overview
 Founder's Cognitive Twin is an AI-powered strategic analyzer designed to reduce the cognitive load of startup founders. By processing raw signals from Slack, transcripts, and founder notes, it detects hidden structural risks, misalignment between investor promises and engineering reality, and identifies context gaps before they become bottlenecks.
